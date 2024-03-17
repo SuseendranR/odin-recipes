@@ -1,0 +1,17 @@
+body{
+    background-color: #303134;
+    font-family:'Courier New', Courier, monospace
+}
+h1{
+    color:#ffff66;
+}
+p,.ingredients,.steps{
+    color:#fff;
+}
+a:visited{
+    color:aqua;
+}
+h3{
+    color: #8ab4f8;
+}
+
